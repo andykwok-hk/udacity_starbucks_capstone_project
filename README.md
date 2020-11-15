@@ -3,6 +3,8 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 This project is to explore the composition of the customer and use their personal information to predict if certain types of promotion is attractive to them.
 
+Blog post: https://medium.com/@andykwokck/starbucks-promotion-ml-project-137139869032
+
 The data is contained in three files:
 
 portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
